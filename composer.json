@@ -1,0 +1,14 @@
+{
+    "name": "vk/inspire",
+    "description": "Daily inspire quotes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vikas",
+            "email": "vikas.softechure@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
