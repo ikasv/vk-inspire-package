@@ -3,3 +3,5 @@
 # Url - /daily-inspire
 
 # Config - php artisan vendor:publish - select vikassoftechure provider
+
+# Thank You
