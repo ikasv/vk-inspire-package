@@ -10,13 +10,6 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Vikassoftechure\\Inspire\\VkInspireServiceProvider"
-            ]
-        }
-    }
+    "require": {}
 }
 
