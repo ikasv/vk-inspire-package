@@ -1,6 +1,6 @@
 <?php
 
-namespace Vikas\Inspire\Http\Controllers;
+namespace Vikassoftechure\Inspire\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 
