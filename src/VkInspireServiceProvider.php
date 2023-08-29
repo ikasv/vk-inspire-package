@@ -1,6 +1,6 @@
 <?php
 
-namespace Vk\Inspire;
+namespace Vikas\Inspire;
 
 use Illuminate\Support\ServiceProvider;
 
