@@ -4,8 +4,14 @@
 Refresh Page and get new inspire quotes
 
 - Install
-- daily-inspire endpoint on url
+- daily-inspire endpoint on url ( http://127.0.0.1:8000/daily-inspire )
 - ✨ Magic ✨
+
+## Publish 
+````sh
+    php artisan vendor:publish  
+```
+Enter Vikassoftechure service provide index or number to publish config file
 
 ## Installation
 
