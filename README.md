@@ -1,7 +1,24 @@
-# Daily Inspire Quotes ( Vk )
+# Vikassoftechure Inspire Package
+## _Daily Inspire Quotes ( Vk )_
 
-# Url - /daily-inspire
+Refresh Page and get new inspire quotes
 
-# Config - php artisan vendor:publish - select vikassoftechure provider
+- Install
+- daily-inspire endpoint on url
+- ✨ Magic ✨
 
-# Thank You
+## Installation
+
+
+Run command in project terminal
+
+```sh
+composer require vikassoftechure/inspire
+```
+
+
+## License
+
+MIT
+
+**Free Software, Hell Yeah!**
