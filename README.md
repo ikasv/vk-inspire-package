@@ -8,7 +8,7 @@ Refresh Page and get new inspire quotes
 - ✨ Magic ✨
 
 ## Publish 
-````sh
+```sh
     php artisan vendor:publish  
 ```
 Enter Vikassoftechure service provide index or number to publish config file
