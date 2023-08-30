@@ -10,6 +10,18 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vikassoftechure\\Inspire\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vikassoftechure\\Inspire\\VkInspireServiceProvider"
+            ]
+        }
+    }
 }
 
